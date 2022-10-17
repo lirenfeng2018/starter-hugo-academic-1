@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Alice Bighetti myname
+title: Alice lifeng
 
 # Full name (for SEO)
 first_name: sea
@@ -14,7 +14,7 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
+  - name:Hist
     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
@@ -22,8 +22,8 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
+  - animal
+  - animal
   - Information Retrieval
 
 # Education to show in About widget
