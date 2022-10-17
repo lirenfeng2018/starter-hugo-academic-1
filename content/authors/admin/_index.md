@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Alice lifeng
+title: lifeng
 
 # Full name (for SEO)
 first_name: sea
