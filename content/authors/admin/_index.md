@@ -24,7 +24,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
   - animal
   - animal
-  - Information Retrieval
+  - animal
 
 # Education to show in About widget
 education:
